@@ -1,1 +1,1 @@
-# flat-earth-catalogue
+# Flat Earth Catalogue
